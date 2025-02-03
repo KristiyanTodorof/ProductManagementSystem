@@ -1,0 +1,4 @@
+Product: PerishableProduct{Id= 1Name= milkPrice= 3.0Price with discount= -3.0expirationDays= 15discountRate= 2.0}
+Product: PerishableProduct{Id= 3Name= sausagePrice= 5.0Price with discount= 0.0expirationDays= 7discountRate= 1.0}
+Product: NonPerishableProduct{warrantyYears= 2Id= 2Name= breadPrice= 4.0Price with discount= 4.0}
+Product: NonPerishableProduct{warrantyYears= 7Id= 4Name= cheesePrice= 15.0Price with discount= 15.0}
